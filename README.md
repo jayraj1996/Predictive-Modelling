@@ -1,2 +1,2 @@
 # Predictive-Modelling
-It' a framework to predict data
+It' a framework to analyze data
