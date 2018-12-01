@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\469299b3c89af2af37da4c30cf2d4bf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\27833c803dda4370b39dd2818b5a7737\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\19ca0fc34323ba1bf22afa53c99a15a8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3a2627b007f65c638bf6dc657ca36adf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\08b6f174c05e8ec49393b43b22a2429b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\79dc7290493bdc55e84f08979a1d46ac\AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ca03f50431a7b460e6d6216650417b9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f30cc61e0cda4db7367a9a3b4aa17584\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a63e587f5edfa234562a89c821d2ac9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a7e06a2c144b4a54659ed89620ed12c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f6e0deaf8c329e701b5a615cff1082d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\241a6f40d29235d76f97fdfbf112ba3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\68f36566954e3d257c0993451ca3de82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b16b96242e6ba15ed096c0a9aadd1c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\edb7de5e6c5dd171dd4e6f210fa9d04f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b2d32d50055ead730bd66eead4dea9c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\80b26167e7996353a69d7bc59d519a76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\33ba5d0a92f9743fab204b2f901f361c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ccd80ac52e1e5969975da88a27fefedc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff1e3a604f40cce5e74e1482d31b1ca7\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\19ca0fc34323ba1bf22afa53c99a15a8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\19ca0fc34323ba1bf22afa53c99a15a8\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ca03f50431a7b460e6d6216650417b9\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ca03f50431a7b460e6d6216650417b9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:8:9-88
+activity#com.example.jayraj.pridictive__model.Activity.SplashActivity
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:15:19-94
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.jayraj.pridictive__model.Activity.MainActivity
+ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:22:9-95
+	android:name
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml:22:19-92
+uses-sdk
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\469299b3c89af2af37da4c30cf2d4bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\469299b3c89af2af37da4c30cf2d4bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\27833c803dda4370b39dd2818b5a7737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\27833c803dda4370b39dd2818b5a7737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\19ca0fc34323ba1bf22afa53c99a15a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\19ca0fc34323ba1bf22afa53c99a15a8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3a2627b007f65c638bf6dc657ca36adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3a2627b007f65c638bf6dc657ca36adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\08b6f174c05e8ec49393b43b22a2429b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\08b6f174c05e8ec49393b43b22a2429b\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\79dc7290493bdc55e84f08979a1d46ac\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\79dc7290493bdc55e84f08979a1d46ac\AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ca03f50431a7b460e6d6216650417b9\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ca03f50431a7b460e6d6216650417b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f30cc61e0cda4db7367a9a3b4aa17584\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f30cc61e0cda4db7367a9a3b4aa17584\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a63e587f5edfa234562a89c821d2ac9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a63e587f5edfa234562a89c821d2ac9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a7e06a2c144b4a54659ed89620ed12c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a7e06a2c144b4a54659ed89620ed12c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f6e0deaf8c329e701b5a615cff1082d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f6e0deaf8c329e701b5a615cff1082d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\241a6f40d29235d76f97fdfbf112ba3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\241a6f40d29235d76f97fdfbf112ba3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\68f36566954e3d257c0993451ca3de82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\68f36566954e3d257c0993451ca3de82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b16b96242e6ba15ed096c0a9aadd1c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b16b96242e6ba15ed096c0a9aadd1c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\edb7de5e6c5dd171dd4e6f210fa9d04f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\edb7de5e6c5dd171dd4e6f210fa9d04f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b2d32d50055ead730bd66eead4dea9c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b2d32d50055ead730bd66eead4dea9c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\80b26167e7996353a69d7bc59d519a76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\80b26167e7996353a69d7bc59d519a76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\33ba5d0a92f9743fab204b2f901f361c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\33ba5d0a92f9743fab204b2f901f361c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ccd80ac52e1e5969975da88a27fefedc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ccd80ac52e1e5969975da88a27fefedc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff1e3a604f40cce5e74e1482d31b1ca7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jay Raj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ff1e3a604f40cce5e74e1482d31b1ca7\AndroidManifest.xml:20:5-44
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+		ADDED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jayrajpredectivemodel\jayrajpredictivemodel\app\src\main\AndroidManifest.xml
