@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_current"
+        android:enabled="true"
+        android:icon="@drawable/ic_icon"
+        android:title="Current"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_history"
+        android:enabled="true"
+        android:icon="@drawable/ic_medical_history"
+        android:title="History"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_pridiction"
+        android:enabled="true"
+        android:icon="@drawable/ic_business_graphic"
+        android:title="Prediction"
+        app:showAsAction="ifRoom" />
+</menu>
