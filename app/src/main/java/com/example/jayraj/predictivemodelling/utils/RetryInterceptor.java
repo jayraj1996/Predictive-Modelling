@@ -1,7 +1,6 @@
-package com.example.jayraj.pridictive__model.utils;
+package com.example.jayraj.predictive__model.utils;
 
 import java.io.IOException;
-import java.util.logging.Logger;
 
 import okhttp3.Interceptor;
 import okhttp3.Request;

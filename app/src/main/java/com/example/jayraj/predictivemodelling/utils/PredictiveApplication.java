@@ -1,15 +1,15 @@
-package com.example.jayraj.pridictive__model.utils;
+package com.example.jayraj.predictive__model.utils;
 
 import android.support.multidex.MultiDexApplication;
 
-import com.example.jayraj.pridictive__model.Services.FunctionService;
-import com.example.jayraj.pridictive__model.Services.FunctionServiceImplement;
-import com.example.jayraj.pridictive__model.BuildConfig;
+import com.example.jayraj.predictive__model.Services.FunctionService;
+import com.example.jayraj.predictive__model.Services.FunctionServiceImplement;
+import com.example.jayraj.predictive__model.BuildConfig;
 
 public class PredictiveApplication extends MultiDexApplication {
 
 
-    private com.example.jayraj.pridictive__model.Services.FunctionService FunctionService;
+    private com.example.jayraj.predictive__model.Services.FunctionService FunctionService;
     public boolean check_new_session;
 
     private static PredictiveApplication mInstance;

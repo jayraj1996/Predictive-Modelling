@@ -1,10 +1,10 @@
-package com.example.jayraj.pridictive__model.utils;
+package com.example.jayraj.predictive__model.utils;
 
 
 import android.os.AsyncTask;
 
-import com.example.jayraj.pridictive__model.Activity.PreActivity;
-import com.example.jayraj.pridictive__model.Services.CallbackService;
+import com.example.jayraj.predictive__model.Activity.PreActivity;
+import com.example.jayraj.predictive__model.Services.CallbackService;
 
 import java.lang.ref.WeakReference;
 
