@@ -1,4 +1,4 @@
-package com.example.jayraj.pridictive__model.Activity;
+package com.example.jayraj.predictive__model.Activity;
 
 import android.content.pm.ActivityInfo;
 import android.support.annotation.LayoutRes;
@@ -8,17 +8,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.jayraj.pridictive__model.Services.FunctionService;
-import com.example.jayraj.pridictive__model.R;
-import com.example.jayraj.pridictive__model.utils.ForegroundTaskDelegate;
-import com.example.jayraj.pridictive__model.utils.PredictiveApplication;
+import com.example.jayraj.predictive__model.R;
+import com.example.jayraj.predictive__model.Services.FunctionService;
+import com.example.jayraj.predictive__model.utils.ForegroundTaskDelegate;
+import com.example.jayraj.predictive__model.utils.PredictiveApplication;
 
 import java.util.List;
 import java.util.Vector;
 
 import butterknife.ButterKnife;
 
-public class    PreActivity extends AppCompatActivity {
+public class PreActivity extends AppCompatActivity {
 
     @LayoutRes
     protected int getRootLayoutRes() {

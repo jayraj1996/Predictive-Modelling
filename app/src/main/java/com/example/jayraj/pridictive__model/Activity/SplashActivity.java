@@ -1,11 +1,11 @@
-package com.example.jayraj.pridictive__model.Activity;
+package com.example.jayraj.predictive__model.Activity;
 
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.jayraj.pridictive__model.R;
+import com.example.jayraj.predictive__model.R;
 
 public class SplashActivity extends AppCompatActivity {
 

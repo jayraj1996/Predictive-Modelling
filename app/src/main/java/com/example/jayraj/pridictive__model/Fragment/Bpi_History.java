@@ -1,14 +1,12 @@
-package com.example.jayraj.pridictive__model.Fragment;
+package com.example.jayraj.predictive__model.Fragment;
 
-import android.content.Context;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.jayraj.pridictive__model.R;
+import com.example.jayraj.predictive__model.R;
 
 
 public class Bpi_History extends Fragment {
