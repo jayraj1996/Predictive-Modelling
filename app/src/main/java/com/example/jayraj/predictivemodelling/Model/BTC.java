@@ -1,4 +1,4 @@
-package com.example.jayraj.pridictive__model.Model;
+package com.example.jayraj.predictive__model.Model;
 
 import com.google.gson.annotations.Expose;
 
