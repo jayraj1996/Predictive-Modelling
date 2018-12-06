@@ -1,7 +1,7 @@
-package com.example.jayraj.pridictive__model.Services;
+package com.example.jayraj.predictive__model.Services;
 
 
-import com.example.jayraj.pridictive__model.Model.HighLowResponse;
+import com.example.jayraj.predictive__model.Model.HighLowResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

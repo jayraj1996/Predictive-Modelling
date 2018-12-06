@@ -1,8 +1,8 @@
-package com.example.jayraj.pridictive__model.Services;
+package com.example.jayraj.predictive__model.Services;
 
 import android.support.annotation.NonNull;
 
-import com.example.jayraj.pridictive__model.Model.HighLowResponse;
+import com.example.jayraj.predictive__model.Model.HighLowResponse;
 
 public interface FunctionService {
 

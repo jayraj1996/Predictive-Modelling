@@ -1,8 +1,6 @@
-package com.example.jayraj.pridictive__model.Services;
+package com.example.jayraj.predictive__model.Services;
 
 import android.os.AsyncTask;
-
-import javax.xml.transform.Result;
 
 import retrofit2.Call;
 

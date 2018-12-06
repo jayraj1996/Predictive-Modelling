@@ -1,6 +1,4 @@
-package com.example.jayraj.pridictive__model.Services;
-
-import android.text.TextUtils;
+package com.example.jayraj.predictive__model.Services;
 
 import java.io.IOException;
 

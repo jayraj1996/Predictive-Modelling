@@ -1,11 +1,11 @@
-package com.example.jayraj.pridictive__model.Services;
+package com.example.jayraj.predictive__model.Services;
 
 import android.support.annotation.NonNull;
 import android.util.Log;
 
-import com.example.jayraj.pridictive__model.Model.HighLowResponse;
-import com.example.jayraj.pridictive__model.utils.PredictiveApplication;
-import com.example.jayraj.pridictive__model.utils.RetryInterceptor;
+import com.example.jayraj.predictive__model.Model.HighLowResponse;
+import com.example.jayraj.predictive__model.utils.PredictiveApplication;
+import com.example.jayraj.predictive__model.utils.RetryInterceptor;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

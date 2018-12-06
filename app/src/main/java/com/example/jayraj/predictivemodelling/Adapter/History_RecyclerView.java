@@ -1,4 +1,4 @@
-package com.example.jayraj.pridictive__model.Adapter;
+package com.example.jayraj.predictive__model.Adapter;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.jayraj.pridictive__model.R;
+import com.example.jayraj.predictive__model.R;
 
 public class History_RecyclerView extends RecyclerView.Adapter<History_RecyclerView.ViewHolder> {
 
