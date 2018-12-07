@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/txt_day"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_weight="0.25"/>
+
+
+        <TextView
+            android:id="@+id/txt_high"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#ff669900"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_weight="0.25"/>
+
+
+
+        <TextView
+            android:id="@+id/txt_low"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#ffff4444"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_weight="0.25"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
